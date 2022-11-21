@@ -1,0 +1,14 @@
+Australia Dyr
+
+Hovedside med landet Australia på kartet.
+Forskjellige hover og informasjonbokser på delene av landet med informasjon om dyrene.
+Klikkbare områder som fører til et dyr, hver person på gruppen får ansvar for ett dyr, dvs. 5 dyr totalt
+
+
+Dyr:
+
+Marcus : Kookaburra
+Pelle : Kenguru
+Even : Krokodille 
+Frida : Blue ringed octopus
+Irene : Quokka
